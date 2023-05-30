@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ActivityIndicator, Text, View } from 'react-native';
+import { ActivityIndicator, View } from 'react-native';
 import CharacterCard from './CharacterCard';
 import apiParams from '../config';
 import axios from 'axios';
